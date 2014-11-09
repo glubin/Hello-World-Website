@@ -1,0 +1,35 @@
+.jumbotron {
+  padding-bottom: 7%;
+  color: black;
+  background-color: #fff; 
+  background: 'img/purple.png';
+}
+
+body { background: #EbFFFF; }
+
+.nav-tabs > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+}
+
+.nav-tabs, .nav-pills {
+    text-align:center;
+}
+
+.limit{
+	width: 60%;
+}
+
+.footer{
+	background-color: #EbFFFF;
+}
+
+
+a {
+	color: grey;
+}
+
+
+.logo{
+  width: 60%;
+}
